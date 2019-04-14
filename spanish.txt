@@ -326,6 +326,107 @@ tuve que pensar rápido; I had to think fast
 suena familiar...; sounds familiar...
 no la recuerdas?; you don't remember?
 
+# episode 7/8/9
+era una hermosa mañana; it was a gorgeous morning
+el sol brillaba en las montañas; the sun was shining in the mountains
+un pájaro volaba en el cielo; a bird was flying in the sky
+una versión muy conocida; a very well known version
+yo estaba hablando de otra cosa; I was talking about something else
+la música sonaba distante; the music sounded distant
+una docena de huevos; a dozen eggs
+detrás de ti; behind you
+cuál era la ocasión?; what was the occasion?
+tenías muchos nombres cuando viajabas por Latinoamerica; you had a lot of names when you were travelling in latin america
+cada mañana me despertaba con el sol; every morning i woke up with the sun
+estábamos todos sentados alrededor del fuego meintras yo preparaba el café; we were all seated around the fire while I prepared the coffee
+antes del amanecer; before dawn
+estábamos en camino a ...; we were on the way to ...
+yo sabía que iba a ser bueno; I knew it was going to be good
+éramos adultos, pero nos sentíamos como niños; we were adults, but we felt like kids
+sabías que ...; did you know that ...
+me decían que tenía que llevar un poncho; they told me I had to carry a poncho
+suelo despertarme a las 6; I usually wake up at 6
+solía despertarme a las 6; I used to wake up at 6
+Marta no podía creer que yo no recordaba la leyenda; Marta couldn't believe that I didn't remember the legend
+yo siempre olvidaba; I would always forget
+pero esta vez era diferente; but this time was different
+hice lo posible; I did my best / I did as much as possible
+ocultar; to hide
+te mostré; I showed you
+mostrar; to show
+olvidaste; you forgot
+una colonia olvidada; a forgotten colony
+aparecer; to appear
+desaparecer; to disappear
+soler; to usually / to used to
+solían ir al parque; they used to go to the park
+ropa extraña; strange clothing
+brillante; bright (both light and clever)
+alrededor del mundo; around the world
+vuelvo enseguida; I'll be right back (I return immediately)
+volver; to return
+nadie lo sabe; no one knows
+desde aquí hasta allí; from here to there
+anoche; last night
+a diario; daily
+¡jamás!; never!
+peor; worse
+mejor; better
+casi; almost
+mientras; while
+apenas; barely
+apenas podía caminar; I could barely walk
+profundo; deep
+ciudades perdidas; lost cities
+una mentira lleva a otra; one lie leads to another
+yo recuerdo; i remember
+el nombre suena tan familiar; the name sounds familiar
+mis nuevas vecinas; my new neighbors
+muy entretenido/a; very entertaining
+el pasillo; the hallway
+un campo con flores; a field of flowers
+un espejo; a mirror
+él tiene poderes mágicos; he has magic powers
+hacia; towards
+entre; between
+según; according to
+el tercero en llegar; the third to arrive
+muy poco conocida; very little known
+nada que perder; nothing to lose
+no importaba; it didn't matter
+esperé ansioso; I waited anxiously
+está dañado; it is damaged
+un ruido; a noise
+enviar; to send
+esperar; to hope
+largo/a; long
+una mentira; a lie
+un vuelo; a flight
+dudar; to doubt
+una grabadora; a recorder
+la grabación; the recording
+bromear; to joke
+niegas que...; you deny that...
+una lucha; a fight
+pierdes la calma?; are you losing your cool?
+el siglo; the century
+no cierren los ojos; don't blink (close your eyes)
+estoy avergonzada; i am embarrassed
+algo inesperado; something unexpected
+cerrar; to close
+ellos cierran; they close
+mentir; to lie
+yo miento; i lie
+tú mientes; you lie
+tú mentiste; you lied
+tristemente, no; sadly, no
+pensabas que...; did you know that...
+la respuesta; the answer
+cuál prefieres?; which do you prefer?
+prefiero la lucha libre; I prefer wrestling
+preferir; to prefer
+
+
 # Other
 barriga llena, corazón contento; full belly, happy heart
 Carmen va de compras mañana; Carmen is going shopping tomorrow
@@ -340,6 +441,67 @@ qué talla necesitas?; what size do you need?
 me puedo probar esto?; can I try this on?
 la camisa cuesta diez dólares; the shirt costs ten dollars
 cuánto cuestan estos zapatos?; how much do these shoes cost?
+qué precio tienen estos zapatos?; what price are these shoes?
 cuántos dólares necesitas?; how many dollars do you need?
 pagar en efectivo; to pay in cash
 la panza; the belly
+zonzo/a; silly
+estornudar; to sneeze
+unos estornudos; some sneezes
+el viento; the wind
+la nieve; snow
+está nevando; it is snowing
+está lloviendo; it is raining
+hay nubes; it is cloudy
+hay sol; it is sunny
+cómo está por afuera?; what is it like outside?
+tienes una tos; you have a cough
+estás tosiendo; you are coughing
+qué es ese sonido?; what is that sound?
+tus piernas; your legs
+tus pies; your feet
+el dedo; the finger
+the arm; el brazo
+ojalá que es la verdad!; hopefully that's true!
+es la hora de recoger a la Luz; it is time to pick up Luz
+el suelo; the ground
+el piso; the floor
+el pared; the wall
+el techo; the ceiling
+el traje; the outfit
+su traje preferido; her favorite outfit
+la toalla; the towel
+la manta; the blanket
+la tela; the fabric
+el diseño; the design
+yo te veo; I see you
+la nariz; the nose
+las orejas; the ears
+los juguetes; the toys
+las tijeras; the scissors
+el chupete; the pacifier
+hay una tormenta afuera; there's a storm outside
+una tormenta viene; a storm is coming
+ten cuidado; be careful
+las mejillas; the cheeks
+mejillas regordetas; chubby cheeks
+está vacío/a; it's empty
+no te preocupes; don't worry
+una píldora; a pill
+chupar; to suck
+yo dejé caer el vaso; i dropped the glass
+ella dejó caer el chupete; she dropped the pacifier
+ella se cayó; she fell
+la sartén; the (frying) pan
+la olla; the pot
+
+
+
+# Idhún
+él respiró hondo; he took a deep breath
+debo volver a casa; I must go home
+él te encontrará y te matará; he will find you and kill you
+créeme si te digo; believe me if I tell you
+él no es lo que parece; he is not what he seems
+sigue siendo un chico; he is still a boy
+dictadores que gobernaban con mano de hierro; dictators that ruled with an iron fist
